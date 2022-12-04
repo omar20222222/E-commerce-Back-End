@@ -4,11 +4,11 @@ This project, I created a mysql database and backend application for an e-commen
 
 # TOOLs
 
-MySql
-JavaScript
-Sequelize
-Dotenv
-Express
+- MySql
+- JavaScript
+- Sequelize
+- Dotenv
+- Express
 
 ## Installation
 
@@ -26,4 +26,4 @@ DB_PW=
 
 Github URL: https://github.com/omar20222222/E-commerce-Back-End
 
-Walk-through video link:
+Walk-through video link: https://drive.google.com/file/d/1IbdYX_IhgK9FSfbu8Dgs2EEu7wa9lwNL/view
